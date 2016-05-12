@@ -1,0 +1,18 @@
+.traffic-light .light{
+  display: inline-block;
+  background: url(//lh3.googleusercontent.com/-YWLqWZXDYHU/VmWC7GHoAuI/AAAAAAAACgk/nXvEmSWAhQU/s800/light.png) no-repeat 0 0;
+  background-size: auto 100%;
+  overflow: hidden;
+  width:70px;
+  height:164px;
+}
+
+.red{
+  background-position: 0,0!important;
+}
+.yellow{
+  background-position: -78px , 0!important;
+}
+.green{
+  background-position: -156px , 0!important;
+}

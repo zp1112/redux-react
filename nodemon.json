@@ -1,0 +1,5 @@
+{
+  "env": { "NODE_ENV": "" },
+  "ext": "js ejs",
+  "watch": [ "server/","views/" ]
+}
